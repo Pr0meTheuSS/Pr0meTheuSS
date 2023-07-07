@@ -1,4 +1,4 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Pr0meTheuSS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pr0meTheuSS&theme=dark&background=000000)](https://git.io/streak-stats)
